@@ -59,7 +59,7 @@
     <None Include="Assets\AboutAssets.txt" />
   </ItemGroup>
   <ItemGroup>
-    <AndroidResource Include="Resources\layout\POIList.axml">
+    <AndroidResource Include="Resources\layout\SampleList.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

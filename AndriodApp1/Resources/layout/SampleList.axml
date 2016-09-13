@@ -10,5 +10,14 @@
         p1:minHeight="25px"
         p1:layout_width="match_parent"
         p1:layout_height="match_parent"
-        p1:id="@+id/POIListView" />
+        p1:id="@+id/POIListView"
+        p1:theme="@android:style/DeviceDefault.ButtonBar"
+        p1:hapticFeedbackEnabled="true">
+    <!--<Button
+            p1:clickable="true"
+            p1:layout_height="wrap_content"
+            p1:layout_width="match_parent"
+            p1:text="Click Me"
+            p1:id="@+id/clickMeBttn" />-->
+    </ListView>
 </RelativeLayout>
