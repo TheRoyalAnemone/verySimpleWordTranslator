@@ -60,8 +60,11 @@ namespace AndriodApp1
 		public partial class Id
 		{
 			
+			// aapt resource value: 0x7f060001
+			public const int POIListView = 2131099649;
+			
 			// aapt resource value: 0x7f060000
-			public const int MyButton = 2131099648;
+			public const int relativeLayout1 = 2131099648;
 			
 			static Id()
 			{
@@ -77,7 +80,7 @@ namespace AndriodApp1
 		{
 			
 			// aapt resource value: 0x7f030000
-			public const int Main = 2130903040;
+			public const int POIList = 2130903040;
 			
 			static Layout()
 			{
